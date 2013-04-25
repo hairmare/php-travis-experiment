@@ -28,7 +28,7 @@ class MyClassTest extends PHPUnit_Framework_TestCase
     /**
      * @var Mp3Indexer
      */
-    protected $object;
+    protected $_object;
 
     /**
      * Sets up the fixture, for example, opens a network connection.
