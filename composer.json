@@ -8,7 +8,7 @@
         }
     ],
     "require-dev": {
-        "libgraviton/codesniffer": "*",
+        "libgraviton/codesniffer": "dev-master",
         "phpunit/phpunit": "*"
     }
 }
