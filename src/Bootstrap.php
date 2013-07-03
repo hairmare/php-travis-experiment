@@ -1,6 +1,9 @@
 <?php
 /**
- * bootstrap
+* bootstrap
+ *
+ * This Bootstrap is rather empty since I have not implemented much. In fact this text
+ * was only added to check some things!
  *
  * PHP Version 5
  *
