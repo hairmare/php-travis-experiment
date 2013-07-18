@@ -4,7 +4,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/hairmare/codesniffer-ruleset-entb"
+            "url": "https://github.com/libgraviton/codesniffer-ruleset-entb"
         }
     ],
     "require-dev": {
