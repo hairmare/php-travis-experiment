@@ -1,12 +1,6 @@
 {
     "name": "libgraviton/php-travis-experiment",
     "license": "GPLv3",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/libgraviton/codesniffer-ruleset-entb"
-        }
-    ],
     "require-dev": {
         "libgraviton/codesniffer": "dev-master",
         "phpunit/phpunit": "*"
