@@ -18,6 +18,6 @@ There are also some ongoing experiments
 
 ```php
 /**
- * this is some syntax highlighted php code.
+ * this is some syntax highlighted php code. It really is.
  */
 ```
